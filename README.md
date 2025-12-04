@@ -1,3 +1,4 @@
 # Hello-world
 Exam preperation
-Creating a merge erroe
+
+Creating a merge error
